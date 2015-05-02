@@ -1,0 +1,113 @@
+Error Date: 2013/4/6 16:04:39
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=UpMORocEMExJwzF9hfsUgaz4Qdp/APqqcnk8IhgqpBgTOODlM/b8jV0B54rQR6FWyW35G+efUF8I7C2e2udNoIyjQpOoKpE1l9lNu37/CwISWgIWqHYPlcgz5BAS7P+eSj0lRCXdhKgmgl7SaxIJvAhiYDJ9aOF3VNBRKS4Vvvc=
+Error Message: Value cannot be null.
+Parameter name: xmlString
+Error TargetSite: Void FromXmlString(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 19:38:26
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=a+4Dt5ynQdbxg3oBHy+T3DJPhq56L7fEfd+ppDwzT5fYhKvvs5CFawKdALcyiLLLfukv8uHllFjfIDbf3duPliaUSSO9YJWTYBNEikohMx1TqSBaMWMXpoZd9HkciPkym7UtMj5jUp3LyAtf6mWCB3PvJ52UDNXgdHFRP/MsCu4=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 19:38:26
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=a+4Dt5ynQdbxg3oBHy+T3DJPhq56L7fEfd+ppDwzT5fYhKvvs5CFawKdALcyiLLLfukv8uHllFjfIDbf3duPliaUSSO9YJWTYBNEikohMx1TqSBaMWMXpoZd9HkciPkym7UtMj5jUp3LyAtf6mWCB3PvJ52UDNXgdHFRP/MsCu4=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 19:38:26
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=a+4Dt5ynQdbxg3oBHy+T3DJPhq56L7fEfd+ppDwzT5fYhKvvs5CFawKdALcyiLLLfukv8uHllFjfIDbf3duPliaUSSO9YJWTYBNEikohMx1TqSBaMWMXpoZd9HkciPkym7UtMj5jUp3LyAtf6mWCB3PvJ52UDNXgdHFRP/MsCu4=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 19:44:36
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=a+4Dt5ynQdbxg3oBHy+T3DJPhq56L7fEfd+ppDwzT5fYhKvvs5CFawKdALcyiLLLfukv8uHllFjfIDbf3duPliaUSSO9YJWTYBNEikohMx1TqSBaMWMXpoZd9HkciPkym7UtMj5jUp3LyAtf6mWCB3PvJ52UDNXgdHFRP/MsCu4=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 19:44:36
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=a+4Dt5ynQdbxg3oBHy+T3DJPhq56L7fEfd+ppDwzT5fYhKvvs5CFawKdALcyiLLLfukv8uHllFjfIDbf3duPliaUSSO9YJWTYBNEikohMx1TqSBaMWMXpoZd9HkciPkym7UtMj5jUp3LyAtf6mWCB3PvJ52UDNXgdHFRP/MsCu4=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 19:44:36
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=a+4Dt5ynQdbxg3oBHy+T3DJPhq56L7fEfd+ppDwzT5fYhKvvs5CFawKdALcyiLLLfukv8uHllFjfIDbf3duPliaUSSO9YJWTYBNEikohMx1TqSBaMWMXpoZd9HkciPkym7UtMj5jUp3LyAtf6mWCB3PvJ52UDNXgdHFRP/MsCu4=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 19:45:05
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=RKnSC4H5XKuyJqL/zxYVnjLwJ2BrvghXfQKz5IxnOOewb1iS6KToc1wwPUURe+VDnnzFQK4cxtjMErPc8SM6oo0CQ6rBhlOKEuRvFBJzJsN/CG80uACuvLuILOIiaoROJzXF4zHuaEenflLxjVtikQ8w8NLkyGvj2+bG1jN9dRw=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 19:45:05
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=RKnSC4H5XKuyJqL/zxYVnjLwJ2BrvghXfQKz5IxnOOewb1iS6KToc1wwPUURe+VDnnzFQK4cxtjMErPc8SM6oo0CQ6rBhlOKEuRvFBJzJsN/CG80uACuvLuILOIiaoROJzXF4zHuaEenflLxjVtikQ8w8NLkyGvj2+bG1jN9dRw=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 19:45:05
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=RKnSC4H5XKuyJqL/zxYVnjLwJ2BrvghXfQKz5IxnOOewb1iS6KToc1wwPUURe+VDnnzFQK4cxtjMErPc8SM6oo0CQ6rBhlOKEuRvFBJzJsN/CG80uACuvLuILOIiaoROJzXF4zHuaEenflLxjVtikQ8w8NLkyGvj2+bG1jN9dRw=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 21:21:10
+Error Page: http://localhost:48154/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 为过程或函数 p_slzzActivityInfo_update 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 21:21:10
+Error Page: http://localhost:48154/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 为过程或函数 p_slzzActivityInfo_update 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 21:21:10
+Error Page: http://localhost:48154/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 为过程或函数 p_slzzActivityInfo_update 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 21:25:45
+Error Page: http://localhost:48154/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 为过程或函数 p_slzzActivityInfo_update 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 21:25:45
+Error Page: http://localhost:48154/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 为过程或函数 p_slzzActivityInfo_update 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/6 21:25:45
+Error Page: http://localhost:48154/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 为过程或函数 p_slzzActivityInfo_update 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 

@@ -1,0 +1,147 @@
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+Error TargetSite: Boolean TryGetConnection(System.Data.Common.DbConnection, System.Threading.Tasks.TaskCompletionSource`1[System.Data.ProviderBase.DbConnectionInternal], System.Data.Common.DbConnectionOptions, System.Data.ProviderBase.DbConnectionInternal ByRef)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+Error TargetSite: Boolean TryGetConnection(System.Data.Common.DbConnection, System.Threading.Tasks.TaskCompletionSource`1[System.Data.ProviderBase.DbConnectionInternal], System.Data.Common.DbConnectionOptions, System.Data.ProviderBase.DbConnectionInternal ByRef)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:12
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+Error TargetSite: Boolean TryGetConnection(System.Data.Common.DbConnection, System.Threading.Tasks.TaskCompletionSource`1[System.Data.ProviderBase.DbConnectionInternal], System.Data.Common.DbConnectionOptions, System.Data.ProviderBase.DbConnectionInternal ByRef)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:13
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+Error TargetSite: Boolean TryGetConnection(System.Data.Common.DbConnection, System.Threading.Tasks.TaskCompletionSource`1[System.Data.ProviderBase.DbConnectionInternal], System.Data.Common.DbConnectionOptions, System.Data.ProviderBase.DbConnectionInternal ByRef)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:13
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:13
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:45:13
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\Error Log\logfile_2013526.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/26 18:51:50
+Error Page: http://localhost:26119/HOMEPAGE/personalCenter.ashx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 

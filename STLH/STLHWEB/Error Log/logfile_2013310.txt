@@ -1,0 +1,312 @@
+Error Date: 2013/3/10 10:20:42
+Error Page: http://localhost:6885/LOGIN/login2.aspx
+Error Message: 无法打开登录所请求的数据库 "STLHDB"。登录失败。
+用户 'sa' 登录失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 10:20:42
+Error Page: http://localhost:6885/LOGIN/login2.aspx
+Error Message: 无法打开登录所请求的数据库 "STLHDB"。登录失败。
+用户 'sa' 登录失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 11:04:06
+Error Page: http://localhost:6885/STJS/STCL/stclExam.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 11:07:20
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 11:27:21
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Save_Click(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 14:47:21
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 14:48:35
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 14:52:02
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:21:34
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:27:12
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:34:15
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:35:07
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:41:43
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:44:13
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:48:44
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: fillDate
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:51:01
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: fillDate
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:52:19
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: fillDate
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 15:53:28
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:29:03
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:29:03
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:30:13
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:30:13
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:32:01
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:32:02
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:36:09
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:36:09
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:40:05
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:40:05
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:52:05
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:52:05
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:55:00
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:55:00
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:59:40
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 16:59:40
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 17:07:24
+Error Page: http://localhost:6885/STJS/STCL/stclAsuccess.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 17:07:24
+Error Page: http://localhost:6885/STJS/STCL/stclAsuccess.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 17:09:57
+Error Page: http://localhost:6885/STJS/STCL/stclAsuccess.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 17:09:57
+Error Page: http://localhost:6885/STJS/STCL/stclAsuccess.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 20:06:29
+Error Page: http://localhost:6885/STJS/STCL/stclAsuccess.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 20:06:29
+Error Page: http://localhost:6885/STJS/STCL/stclAsuccess.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 20:10:46
+Error Page: http://localhost:6885/STJS/STCL/stclAsuccess.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/10 20:10:46
+Error Page: http://localhost:6885/STJS/STCL/stclAsuccess.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 

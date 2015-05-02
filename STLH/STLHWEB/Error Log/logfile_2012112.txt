@@ -1,0 +1,38 @@
+Error Date: 2012/11/2 20:08:57
+Error Page: http://localhost:6071/STJS/STCL/stclAsuccess.aspx
+Error Message: 列名 'opinionBId' 无效。
+由于绑定错误，无法使用视图或函数 'View_stsqAmendments'。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2012/11/2 20:08:57
+Error Page: http://localhost:6071/STJS/STCL/stclAsuccess.aspx
+Error Message: 列名 'opinionBId' 无效。
+由于绑定错误，无法使用视图或函数 'View_stsqAmendments'。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2012/11/2 20:08:57
+Error Page: http://localhost:6071/STJS/STCL/stclAsuccess.aspx
+Error Message: 列名 'opinionBId' 无效。
+由于绑定错误，无法使用视图或函数 'View_stsqAmendments'。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2012/11/2 21:02:29
+Error Page: http://localhost:6071/STJS/STCL/stclExam.aspx
+Error Message: Object reference not set to an instance of an object.
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2012/11/2 21:02:52
+Error Page: http://localhost:6071/STJS/STCL/stclExam.aspx
+Error Message: Object reference not set to an instance of an object.
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 

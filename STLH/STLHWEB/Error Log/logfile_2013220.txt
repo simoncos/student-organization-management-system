@@ -1,0 +1,602 @@
+Error Date: 2013/2/20 12:27:08
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 12:31:30
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:08:24
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:10:29
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:18:59
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:18:59
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:22:12
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:22:12
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:29:09
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:29:09
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:31:53
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:31:53
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:33:03
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:33:03
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:35:09
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:35:09
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:38:29
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:38:29
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:45:52
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:45:52
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:55:53
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:55:53
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:56:28
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:56:28
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:57:54
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:57:54
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:58:50
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 13:58:50
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:00:02
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:00:03
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:01:02
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:01:02
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:01:45
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:01:45
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'like' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:10:57
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:11:49
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:12:05
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:12:50
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:13:27
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:13:52
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:16:17
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:30:19
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:31:19
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:31:52
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:33:09
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:36:36
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:39:41
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:40:31
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:46:34
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:47:07
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:47:58
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:49:13
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:50:19
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:51:17
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:53:35
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:54:38
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:55:49
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:56:30
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:57:42
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:59:05
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:59:05
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:59:08
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 14:59:15
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:03:44
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:05:19
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:08:38
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:09:28
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:10:09
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:10:48
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:12:16
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:13:06
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:13:12
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:15:14
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:19:40
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:20:22
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: String was not recognized as a valid DateTime.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:21:07
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: String was not recognized as a valid DateTime.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:22:18
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: String was not recognized as a valid DateTime.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:23:36
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: String was not recognized as a valid DateTime.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:25:37
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: String was not recognized as a valid DateTime.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:27:42
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:28:01
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:30:32
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:36:07
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: '@sljlName' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:36:07
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: '@sljlName' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:43:41
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/20 15:51:05
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: String was not recognized as a valid DateTime.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 

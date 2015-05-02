@@ -1,0 +1,8 @@
+Error Date: 2013/4/23 19:15:30
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=bF5XXnus6/nVxMLxMXsDLw7cskhTeFwLh5vQtlQIKSIX+Q4KCx97O5Q+ssMXCNgkHCf42okGxD+vsjCzpSa9zfRUnPFm5OqnMcwz+SCySNKMpyC7czJyTz7NxPnC+y29BtI0qlVisEViypkGOflyRtFNZCEC9yWFhe/61QDEFsk=
+Error Message: Bad Data.
+
+Error TargetSite: Void ThrowCryptographicException(Int32)
+ 
+==============================================================================================
+ 

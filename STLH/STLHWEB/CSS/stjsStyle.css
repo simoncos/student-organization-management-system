@@ -1,0 +1,69 @@
+﻿div{text-align:center;}
+.contentTable{width:878px; text-align:center; border:0;margin:0;border-collapse:collapse;}
+
+
+/*基本信息*/
+th.align{ text-align:left;padding:8px;font-size:15px;}
+span.align{float:left; vertical-align:middle;}
+td.text{text-align:left; width:100px;}
+td.textBox{ height:25px; text-align:left; vertical-align:middle; padding:0; margin:0; }
+.box{text-align:left;width:350px; }/*控件textbox的样式，及其验证信息位置*/
+
+.ddl{text-align:left;width:360px;}
+/*两个文本框*/
+.textfield{overflow:auto;width:876px;
+               Height:212px; border:1px solid #C7D1CC;text-align:left;}
+.textlabel{overflow:auto;width:876px; text-align:left;}/*border:1px solid #C7D1CC;*/
+.rf{padding:8px;color:Black; background-color:#ffffc4;border:1px solid black; height:25px; Font-Size:12px }
+/*上传文件*/
+.trsc{ height:70px; text-align:left;vertical-align:middle;}/*background: #eee; */
+th.txt{text-align:left; vertical-align:middle;font-size:12px; font-weight:normal; height:35px;}/*文件格式(.doc等)的说明*/
+td.upLoad{width:150px; text-align:center; vertical-align:middle;}
+.fileupload{Height:30px; Width:296px; color:Blue; outline:none;}
+.tdimgbtn{ width:100px; margin:0; padding:0; text-align:left;vertical-align:middle;}
+
+.imgbutton{Height:41px; Width:60px; border:0; outline:none;  border-radius: 0px; padding: 0px;}
+.imgbutton:hover {border: 1px solid #808080;}
+
+.tdimg{ text-align:left; vertical-align:middle;}
+.tdimgExam{border:1px solid #eaeaea;text-align:center;vertical-align:middle; width:200px;}
+
+.img{ Height:68px; Width:70px; border:3px solid #C7D1CC;}
+.imgQuery{ Height:150px; Width:150px; border:3px solid #C7D1CC;}
+.label{text-align:left; vertical-align:middle;}
+span.margin{margin:15px 10px;}
+.classifyTL1
+{border-left-style: solid;
+  border-left-color: #808080; 
+border-left-width: 1px;
+border-top-style: solid;
+  border-top-color: #808080; 
+border-top-width: 1px;
+}
+.classifyT1
+{border-top-style: solid;
+  border-top-color: #808080; 
+border-top-width: 1px;
+
+}
+.classifyTL2
+{
+    border-top-style: solid;
+  border-top-color: #66CCFF; 
+border-top-width: 1px;
+    border-left-style: solid;
+  border-left-color: #66CCFF; 
+border-left-width: 1px;
+}
+.classifyT2
+{
+    border-top-style: solid;
+  border-top-color: #66CCFF; 
+border-top-width: 1px;
+}
+.downloadButton{vertical-align:top;}
+/*各页差异*/
+
+/*红色批注*/
+.pz{color:#4D84A7;font-size:16px;height:30px;font-weight:100;}
+.sugtextfied{overflow:auto;width:876px;Height:100px;}/*修改意见的文本框*/

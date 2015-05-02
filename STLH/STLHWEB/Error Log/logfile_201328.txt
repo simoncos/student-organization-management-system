@@ -1,0 +1,68 @@
+Error Date: 2013/2/8 21:46:23
+Error Page: http://localhost:6071/LOGIN/login.aspx
+Error Message: 列名 'stuBId' 无效。
+列名 'stuBId' 无效。
+由于绑定错误，无法使用视图或函数 'View_userLogin'。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/8 21:46:23
+Error Page: http://localhost:6071/LOGIN/login.aspx
+Error Message: 列名 'stuBId' 无效。
+列名 'stuBId' 无效。
+由于绑定错误，无法使用视图或函数 'View_userLogin'。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/8 21:48:53
+Error Page: http://localhost:6071/LOGIN/login.aspx
+Error Message: 列名 'stuBId' 无效。
+列名 'stuBId' 无效。
+由于绑定错误，无法使用视图或函数 'View_userLogin'。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/8 21:48:53
+Error Page: http://localhost:6071/LOGIN/login.aspx
+Error Message: 列名 'stuBId' 无效。
+列名 'stuBId' 无效。
+由于绑定错误，无法使用视图或函数 'View_userLogin'。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/8 21:53:15
+Error Page: http://localhost:6071/LOGIN/login.aspx
+Error Message: 列名 'stuBId' 无效。
+列名 'stuBId' 无效。
+由于绑定错误，无法使用视图或函数 'View_userLogin'。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/8 21:53:15
+Error Page: http://localhost:6071/LOGIN/login.aspx
+Error Message: 列名 'stuBId' 无效。
+列名 'stuBId' 无效。
+由于绑定错误，无法使用视图或函数 'View_userLogin'。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/8 21:57:21
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: String was not recognized as a valid DateTime.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/8 21:57:25
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: String was not recognized as a valid DateTime.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 

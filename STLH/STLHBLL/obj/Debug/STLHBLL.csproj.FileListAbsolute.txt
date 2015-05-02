@@ -1,0 +1,123 @@
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHBLL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHBLL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHCOMMON.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHDAL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHIDAL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHMODEL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHCOMMON.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHDAL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHIDAL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\bin\Debug\STLHMODEL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\obj\Debug\STLHBLL.csprojResolveAssemblyReference.cache
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\obj\Debug\STLHBLL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHBLL\obj\Debug\STLHBLL.pdb
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHBLL.dll
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHBLL.pdb
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHCOMMON.dll
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHDAL.dll
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHIDAL.dll
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHMODEL.dll
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHCOMMON.pdb
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHDAL.pdb
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHIDAL.pdb
+D:\task项目\新\STLH 2013-02\STLHBLL\bin\Debug\STLHMODEL.pdb
+D:\task项目\新\STLH 2013-02\STLHBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\task项目\新\STLH 2013-02\STLHBLL\obj\Debug\STLHBLL.dll
+D:\task项目\新\STLH 2013-02\STLHBLL\obj\Debug\STLHBLL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHBLL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHBLL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHCOMMON.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHDAL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHIDAL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHMODEL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHCOMMON.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHDAL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHIDAL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\bin\Debug\STLHMODEL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\obj\Debug\ResolveAssemblyReference.cache
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\obj\Debug\STLHBLL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHBLL\obj\Debug\STLHBLL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHBLL.dll
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHBLL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHCOMMON.dll
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHDAL.dll
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHIDAL.dll
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHMODEL.dll
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHCOMMON.pdb
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHDAL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHIDAL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHBLL\bin\Debug\STLHMODEL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHBLL\obj\Debug\STLHBLL.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\mySTLH\STLHBLL\obj\Debug\STLHBLL.dll
+C:\Users\dell\Desktop\mySTLH\STLHBLL\obj\Debug\STLHBLL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHBLL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHBLL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHCOMMON.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHDAL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHIDAL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHMODEL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHCOMMON.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHDAL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHIDAL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\bin\Debug\STLHMODEL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\obj\Debug\STLHBLL.csprojResolveAssemblyReference.cache
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\obj\Debug\STLHBLL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHBLL\obj\Debug\STLHBLL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHBLL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHBLL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHCOMMON.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHDAL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHIDAL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHMODEL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHCOMMON.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHDAL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHIDAL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\bin\Debug\STLHMODEL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\obj\Debug\STLHBLL.csprojResolveAssemblyReference.cache
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\obj\Debug\STLHBLL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHBLL\obj\Debug\STLHBLL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHBLL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHBLL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHCOMMON.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHDAL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHMODEL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHCOMMON.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\bin\Debug\STLHMODEL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\obj\Debug\STLHBLL.csprojResolveAssemblyReference.cache
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\obj\Debug\STLHBLL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHBLL\obj\Debug\STLHBLL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHBLL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHBLL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHCOMMON.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHDAL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHMODEL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\FrameWork.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHCOMMON.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\STLHMODEL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\FrameWork.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\bin\Debug\FrameWork.xml
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\obj\Debug\STLHBLL.csprojResolveAssemblyReference.cache
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\obj\Debug\STLHBLL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHBLL\obj\Debug\STLHBLL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHBLL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHBLL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHCOMMON.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHDAL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHMODEL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\FrameWork.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHCOMMON.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\STLHMODEL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\FrameWork.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\bin\Debug\FrameWork.xml
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\obj\Debug\STLHBLL.csprojResolveAssemblyReference.cache
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\obj\Debug\STLHBLL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHBLL\obj\Debug\STLHBLL.pdb

@@ -1,0 +1,37 @@
+﻿2013/05/19 00:05:29|文件不存在:http://localhost:26119/SLWL/JS/lengthCheck.js|::1|/SLWL/JS/lengthCheck.js
+2013/05/19 00:29:16|文件不存在:http://localhost:26119/MASTER/perCenterM/skin5/sidebar.png|::1|/MASTER/perCenterM/skin5/sidebar.png
+2013/05/19 10:20:11|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:23:30|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:23:30|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:23:50|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:23:50|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:26:26|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:26:26|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:30:23|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:32:10|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:32:10|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:39:32|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:39:32|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:43:10|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:43:10|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:53:25|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:53:25|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:54:52|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:54:52|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:56:36|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:56:36|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:56:49|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 10:56:49|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:58:26|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 10:58:26|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 11:08:01|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 11:10:23|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 11:10:23|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 11:12:16|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 11:12:16|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 11:16:02|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 11:16:02|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 11:17:11|文件不存在:http://localhost:26119/ajaxpro/core.ashx|::1|/ajaxpro/core.ashx
+2013/05/19 11:17:11|文件不存在:http://localhost:26119/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx|::1|/ajaxpro/STLHWEB.SLWL.ZZGL.zzglActFillIn,STLHWEB.ashx
+2013/05/19 12:13:08|访问路径:/HOMEPAGE/personalCenter.aspx<br>mscorlib thrown System.FormatException<br />输入字符串的格式不正确。<br />   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)<br />   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)<br />   在 System.Convert.ToInt32(String value)<br />   在 FrameWork.Common.get_Get_UserID() 位置 E:\task项目\(5.17)STLH\(5.17)STLH\FrameWork\Common.cs:行号 1083<br />   在 FrameWork.FrameWorkPermission.app_Auth(Object sender, EventArgs e) 位置 E:\task项目\(5.17)STLH\(5.17)STLH\FrameWork\FrameWorkPermission.cs:行号 183<br />   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()<br />   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)|::1|/HOMEPAGE/personalCenter.aspx
+2013/05/19 13:42:09|访问路径:/SLWL/ZZGL/zzglactfillin/zzglActFillIn.aspx<br>.Net SqlClient Data Provider thrown System.Data.SqlClient.SqlException<br />为过程或函数 p_slzzActivityInfo_update 指定了过多的参数。<br />   在 STLHDAL.SLWL.ZZGL.zzActivityInfo_DAL.insertZzActivityInfo(zzActivityInfo z_zzActivityInfo) 位置 E:\task项目\(5.17)STLH\(5.17)STLH\STLHDAL\SLWL\ZZGL\zzActivityInfo_DAL.cs:行号 83<br />   在 STLHBLL.SLWL.ZZGL.zzActivityInfo_BLL.insertZzActivityInfo(zzActivityInfo z_zzActivityInfo) 位置 E:\task项目\(5.17)STLH\(5.17)STLH\STLHBLL\SLWL\ZZGL\zzActivityInfo_BLL.cs:行号 32<br />   在 STLHWEB.SLWL.ZZGL.zzglActFillIn.Save_Click(Object sender, EventArgs e) 位置 E:\task项目\(5.17)STLH\(5.17)STLH\STLHWEB\SLWL\ZZGL\zzglactfillin\zzglActFillIn.aspx.cs:行号 137<br />   在 System.Web.UI.WebControls.Button.OnClick(EventArgs e)<br />   在 System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)<br />   在 System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)<br />   在 System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)<br />   在 System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)<br />   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)|::1|/SLWL/ZZGL/zzglactfillin/zzglActFillIn.aspx

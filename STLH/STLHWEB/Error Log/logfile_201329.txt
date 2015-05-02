@@ -1,0 +1,147 @@
+Error Date: 2013/2/9 0:53:05
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 0:53:05
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:02:01
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:02:01
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:03:11
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:03:11
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:06:14
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'and' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:06:14
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 关键字 'and' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:06:36
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@inviter"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:06:36
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@inviter"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:08:46
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:08:46
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:22:13
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:22:13
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:23:44
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:23:44
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:27:28
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:27:28
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:29:46
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:29:46
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: 必须声明标量变量 "@sljlName"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/2/9 1:33:47
+Error Page: http://localhost:6071/SLWL/DWJL/dwjlActQuery.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 

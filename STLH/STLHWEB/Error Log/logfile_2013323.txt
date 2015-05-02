@@ -1,0 +1,21 @@
+Error Date: 2013/3/23 10:06:14
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglSponsorList.aspx
+Error Message: 字符串 '' 后的引号不完整。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/23 10:06:14
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglSponsorList.aspx
+Error Message: 字符串 '' 后的引号不完整。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/23 16:30:43
+Error Page: http://localhost:6885/STJS/STZL/stzlQueryList.aspx
+Error Message: stuName
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 

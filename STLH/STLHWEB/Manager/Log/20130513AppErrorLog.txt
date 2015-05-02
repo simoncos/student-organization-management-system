@@ -1,0 +1,22 @@
+﻿2013/05/13 13:49:26|文件不存在:http://localhost:46632/STJS/STCL/|::1|/STJS/STCL/
+2013/05/13 13:49:32|文件不存在:http://localhost:46632/STJS/STCL/|::1|/STJS/STCL/
+2013/05/13 13:49:37|文件不存在:http://localhost:46632/STJS/STCL/|::1|/STJS/STCL/
+2013/05/13 13:49:41|访问路径:/STJS/STCL/stclAfail.aspx.cs<br>System.Web thrown System.Web.HttpException<br />禁止路径“/STJS/STCL/stclAfail.aspx.cs”。<br />   在 System.Web.HttpForbiddenHandler.ProcessRequest(HttpContext context)<br />   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()<br />   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)|::1|/STJS/STCL/stclAfail.aspx.cs
+2013/05/13 13:52:06|文件不存在:http://localhost:46632/STJS/STCL/|::1|/STJS/STCL/
+2013/05/13 14:49:53|文件不存在:http://localhost:46632/STJS/STCL/stclApply.aspx|::1|/STJS/STCL/stclApply.aspx
+2013/05/13 15:02:40|文件不存在:http://localhost:46632/STJS/STCL/stclApply.aspx|::1|/STJS/STCL/stclApply.aspx
+2013/05/13 15:25:31|文件不存在:http://localhost:46632/HOMEPAGE/|::1|/HOMEPAGE/
+2013/05/13 15:27:16|文件不存在:http://localhost:46632/HOMEPAGE/|::1|/HOMEPAGE/
+2013/05/13 15:28:39|文件不存在:http://localhost:46632/MASTER/perCenterM/skin3/sidebar.png|::1|/MASTER/perCenterM/skin3/sidebar.png
+2013/05/13 15:30:14|文件不存在:http://localhost:46632/MASTER/perCenterM/skin3/sidebar.png|::1|/MASTER/perCenterM/skin3/sidebar.png
+2013/05/13 15:30:15|文件不存在:http://localhost:46632/MASTER/perCenterM/skin4/sidebar.png|::1|/MASTER/perCenterM/skin4/sidebar.png
+2013/05/13 15:30:18|文件不存在:http://localhost:46632/MASTER/perCenterM/skin5/sidebar.png|::1|/MASTER/perCenterM/skin5/sidebar.png
+2013/05/13 15:59:05|文件不存在:http://localhost:46632/HOMEPAGE/Module/FrameWork/SystemApp/AppManager/list.aspx|::1|/HOMEPAGE/Module/FrameWork/SystemApp/AppManager/list.aspx
+2013/05/13 16:15:22|文件不存在:http://localhost:46632/HOMEPAGE/huojian.png|::1|/HOMEPAGE/huojian.png
+2013/05/13 17:09:35|文件不存在:http://localhost:46632/|::1|/
+2013/05/13 17:09:39|文件不存在:http://localhost:46632/|::1|/
+2013/05/13 17:09:41|文件不存在:http://localhost:46632/|::1|/
+2013/05/13 17:10:05|文件不存在:http://localhost:46632/|::1|/
+2013/05/13 17:13:07|文件不存在:http://localhost:46632/|::1|/
+2013/05/13 17:23:26|文件不存在:http://localhost:46632/|::1|/
+2013/05/13 17:27:59|文件不存在:http://localhost:46632/|::1|/

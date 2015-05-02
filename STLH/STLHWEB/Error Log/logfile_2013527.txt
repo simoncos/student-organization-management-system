@@ -1,0 +1,14 @@
+Error Date: 2013/5/27 21:33:31
+Error Page: http://localhost:26119/HOMEPAGE/publishNotice.aspx
+Error Message: 必须声明标量变量 "@@stuId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/27 21:33:31
+Error Page: http://localhost:26119/HOMEPAGE/publishNotice.aspx
+Error Message: 必须声明标量变量 "@@stuId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 

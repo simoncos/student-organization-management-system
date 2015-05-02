@@ -1,0 +1,77 @@
+Error Date: 2013/3/5 20:56:40
+Error Page: http://localhost:6071/STJS/STCL/stclExam.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 22:10:14
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx
+Error Message: 参数化查询 '(@slzzId nvarchar(4000))select * from View_slzzActDetail where s' 需要参数 '@slzzId'，但未提供该参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 22:10:14
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx
+Error Message: 参数化查询 '(@slzzId nvarchar(4000))select * from View_slzzActDetail where s' 需要参数 '@slzzId'，但未提供该参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 22:30:51
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 22:36:33
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 22:40:46
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 22:48:55
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 23:02:27
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: 'nvarchar' 不是可以识别的 内置函数名称。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 23:02:27
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: 'nvarchar' 不是可以识别的 内置函数名称。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 23:36:18
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: 找不到列 "slzzId" 或用户定义的函数或聚合 "slzzId.ToString"，或者名称不明确。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/5 23:36:18
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: 找不到列 "slzzId" 或用户定义的函数或聚合 "slzzId.ToString"，或者名称不明确。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 

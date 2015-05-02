@@ -1,0 +1,44 @@
+Error Date: 2013/3/12 13:08:27
+Error Page: http://localhost:6885/STJS/STCL/stclExamList.aspx
+Error Message: 关键字 'where' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/12 13:08:28
+Error Page: http://localhost:6885/STJS/STCL/stclExamList.aspx
+Error Message: 关键字 'where' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/12 13:09:30
+Error Page: http://localhost:6885/STJS/STCL/stclExamList.aspx
+Error Message: 关键字 'where' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/12 13:09:30
+Error Page: http://localhost:6885/STJS/STCL/stclExamList.aspx
+Error Message: 关键字 'where' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/12 19:17:38
+Error Page: http://localhost:6885/LOGIN/login.aspx
+Error Message: 无法打开登录所请求的数据库 "STLHDB"。登录失败。
+用户 'sa' 登录失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/12 19:17:38
+Error Page: http://localhost:6885/LOGIN/login.aspx
+Error Message: 无法打开登录所请求的数据库 "STLHDB"。登录失败。
+用户 'sa' 登录失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 

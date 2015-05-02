@@ -1,0 +1,21 @@
+Error Date: 2013/5/10 9:33:39
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 列名 'sponsorType' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/10 9:35:16
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 列名 'sponsorType' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/10 19:27:31
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void save_Click(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 

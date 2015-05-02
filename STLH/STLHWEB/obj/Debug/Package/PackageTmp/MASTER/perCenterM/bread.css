@@ -1,0 +1,36 @@
+.backToTop {
+    display: none;
+	position: fixed;
+	bottom: 100px;
+	right: 100px;
+	/*background-image:url(huojian.png);*/
+	/*
+	color: white;
+	font-size: 12px;
+	text-decoration:none;  
+	line-height: 1.2;
+    padding: 10px 5px;
+	*/
+    
+	
+   	/*width:60px;
+	height:119px;*/
+  
+ 
+    text-align: center;   
+    _position: absolute;
+    _bottom: "auto";
+    cursor: pointer;
+    opacity: .4;
+    filter: Alpha(opacity=40);
+}
+ .backToTop:hover{
+	/*width:60px;
+	height:119px;*/
+	opacity: 1;
+    filter: Alpha(opacity=100);
+	/*background-image:url(huojian.png);*/
+
+} 
+
+

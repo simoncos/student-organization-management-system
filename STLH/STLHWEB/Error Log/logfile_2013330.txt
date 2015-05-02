@@ -1,0 +1,133 @@
+Error Date: 2013/3/30 21:53:27
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:53:27
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:53:30
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:53:34
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:53:40
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:53:47
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:54:35
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:54:35
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:55:03
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:55:09
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:55:20
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 21:59:47
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 22:00:09
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 22:00:09
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 22:00:31
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 22:00:31
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 22:00:44
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 22:02:48
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/30 22:02:48
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: sljlId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 

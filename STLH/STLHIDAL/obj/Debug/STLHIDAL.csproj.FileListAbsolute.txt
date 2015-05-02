@@ -1,0 +1,70 @@
+C:\Users\Song\Desktop\STLH\STLHIDAL\bin\Debug\STLHIDAL.dll
+C:\Users\Song\Desktop\STLH\STLHIDAL\bin\Debug\STLHIDAL.pdb
+C:\Users\Song\Desktop\STLH\STLHIDAL\bin\Debug\STLHMODEL.dll
+C:\Users\Song\Desktop\STLH\STLHIDAL\bin\Debug\STLHMODEL.pdb
+C:\Users\Song\Desktop\STLH\STLHIDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Song\Desktop\STLH\STLHIDAL\obj\Debug\STLHIDAL.dll
+C:\Users\Song\Desktop\STLH\STLHIDAL\obj\Debug\STLHIDAL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHIDAL\bin\Debug\STLHIDAL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHIDAL\bin\Debug\STLHIDAL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHIDAL\bin\Debug\STLHMODEL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHIDAL\bin\Debug\STLHMODEL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHIDAL\obj\Debug\STLHIDAL.csprojResolveAssemblyReference.cache
+G:\开发\Visual Studio 2010\Projects\STLH\STLHIDAL\obj\Debug\STLHIDAL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHIDAL\obj\Debug\STLHIDAL.pdb
+D:\task项目\新\STLH 2013-02\STLHIDAL\bin\Debug\STLHIDAL.dll
+D:\task项目\新\STLH 2013-02\STLHIDAL\bin\Debug\STLHIDAL.pdb
+D:\task项目\新\STLH 2013-02\STLHIDAL\bin\Debug\STLHMODEL.dll
+D:\task项目\新\STLH 2013-02\STLHIDAL\bin\Debug\STLHMODEL.pdb
+D:\task项目\新\STLH 2013-02\STLHIDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\task项目\新\STLH 2013-02\STLHIDAL\obj\Debug\STLHIDAL.dll
+D:\task项目\新\STLH 2013-02\STLHIDAL\obj\Debug\STLHIDAL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHIDAL\bin\Debug\STLHIDAL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHIDAL\bin\Debug\STLHIDAL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHIDAL\bin\Debug\STLHMODEL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHIDAL\bin\Debug\STLHMODEL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHIDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHIDAL\obj\Debug\STLHIDAL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHIDAL\obj\Debug\STLHIDAL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHIDAL\bin\Debug\STLHIDAL.dll
+C:\Users\dell\Desktop\mySTLH\STLHIDAL\bin\Debug\STLHIDAL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHIDAL\bin\Debug\STLHMODEL.dll
+C:\Users\dell\Desktop\mySTLH\STLHIDAL\bin\Debug\STLHMODEL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHIDAL\obj\Debug\STLHIDAL.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\mySTLH\STLHIDAL\obj\Debug\STLHIDAL.dll
+C:\Users\dell\Desktop\mySTLH\STLHIDAL\obj\Debug\STLHIDAL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHIDAL\bin\Debug\STLHIDAL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHIDAL\bin\Debug\STLHIDAL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHIDAL\bin\Debug\STLHMODEL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHIDAL\bin\Debug\STLHMODEL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHIDAL\obj\Debug\STLHIDAL.csprojResolveAssemblyReference.cache
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHIDAL\obj\Debug\STLHIDAL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHIDAL\obj\Debug\STLHIDAL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHIDAL\bin\Debug\STLHIDAL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHIDAL\bin\Debug\STLHIDAL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHIDAL\bin\Debug\STLHMODEL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHIDAL\bin\Debug\STLHMODEL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHIDAL\obj\Debug\STLHIDAL.csprojResolveAssemblyReference.cache
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHIDAL\obj\Debug\STLHIDAL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHIDAL\obj\Debug\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHIDAL\bin\Debug\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHIDAL\bin\Debug\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHIDAL\bin\Debug\STLHMODEL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHIDAL\bin\Debug\STLHMODEL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHIDAL\obj\Debug\STLHIDAL.csprojResolveAssemblyReference.cache
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHIDAL\obj\Debug\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHIDAL\obj\Debug\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHIDAL\bin\Debug\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHIDAL\bin\Debug\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHIDAL\bin\Debug\STLHMODEL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHIDAL\bin\Debug\STLHMODEL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHIDAL\obj\Debug\STLHIDAL.csprojResolveAssemblyReference.cache
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHIDAL\obj\Debug\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHIDAL\obj\Debug\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHIDAL\bin\Debug\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHIDAL\bin\Debug\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHIDAL\bin\Debug\STLHMODEL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHIDAL\bin\Debug\STLHMODEL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHIDAL\obj\Debug\STLHIDAL.csprojResolveAssemblyReference.cache
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHIDAL\obj\Debug\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHIDAL\obj\Debug\STLHIDAL.pdb

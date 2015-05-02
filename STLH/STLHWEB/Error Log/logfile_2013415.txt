@@ -1,0 +1,112 @@
+Error Date: 2013/4/15 9:57:01
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:01
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:04
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:04
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:04
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:04
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:05
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:05
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:05
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:05
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:11
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 9:57:11
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 10:36:59
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/4/15 10:36:59
+Error Page: http://localhost:48154/ZYGL/CDGL/cdglLocationList.aspx
+Error Message: 将截断字符串或二进制数据。
+语句已终止。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 

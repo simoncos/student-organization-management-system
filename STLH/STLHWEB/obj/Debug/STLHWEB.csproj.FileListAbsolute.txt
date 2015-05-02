@@ -1,0 +1,248 @@
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHWEB.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHWEB.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHBLL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHCOMMON.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHMODEL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHIDAL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHDAL.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHBLL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHCOMMON.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHMODEL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHIDAL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\bin\STLHDAL.pdb
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\obj\Debug\STLHWEB.csprojResolveAssemblyReference.cache
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\obj\Debug\STLHWEB.dll
+G:\开发\Visual Studio 2010\Projects\STLH\STLHWEB\obj\Debug\STLHWEB.pdb
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHWEB.dll
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHWEB.pdb
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHBLL.dll
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHCOMMON.dll
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHMODEL.dll
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHIDAL.dll
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHDAL.dll
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHBLL.pdb
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHCOMMON.pdb
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHMODEL.pdb
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHIDAL.pdb
+D:\task项目\新\STLH 2013-02\STLHWEB\bin\STLHDAL.pdb
+D:\task项目\新\STLH 2013-02\STLHWEB\obj\Debug\ResolveAssemblyReference.cache
+D:\task项目\新\STLH 2013-02\STLHWEB\obj\Debug\STLHWEB.dll
+D:\task项目\新\STLH 2013-02\STLHWEB\obj\Debug\STLHWEB.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHWEB.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHWEB.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHBLL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHCOMMON.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHDAL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHMODEL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHIDAL.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHBLL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHCOMMON.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHDAL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHMODEL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\bin\STLHIDAL.pdb
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\obj\Debug\ResolveAssemblyReference.cache
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\obj\Debug\STLHWEB.dll
+F:\文档\我的文档\Visual Studio 2010\Projects\STLH 2013-03-23\STLHWEB\obj\Debug\STLHWEB.pdb
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHWEB.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHWEB.pdb
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\AjaxControlToolkit.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\Microsoft.Office.Interop.Word.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHBLL.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHCOMMON.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHDAL.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHMODEL.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHIDAL.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\office.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHBLL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHCOMMON.pdb
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHDAL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHMODEL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\AjaxControlToolkit.pdb
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\Microsoft.Office.Interop.Word.xml
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\STLHIDAL.pdb
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\office.xml
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\obj\Debug\STLHWEB.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\mySTLH\STLHWEB\obj\Debug\STLHWEB.dll
+C:\Users\dell\Desktop\mySTLH\STLHWEB\obj\Debug\STLHWEB.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHWEB.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHWEB.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\AjaxControlToolkit.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\Microsoft.Office.Interop.Word.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHBLL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHCOMMON.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHDAL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHMODEL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHIDAL.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\office.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHBLL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHCOMMON.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHDAL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHMODEL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\AjaxControlToolkit.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\Microsoft.Office.Interop.Word.xml
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\STLHIDAL.pdb
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\office.xml
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\ar\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\cs\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\de\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\es\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\fr\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\he\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\hi\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\it\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\ja\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\ko\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\nl\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\pt\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\ru\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\tr-TR\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\zh-CHS\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\bin\zh-CHT\AjaxControlToolkit.resources.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\obj\Debug\STLHWEB.csprojResolveAssemblyReference.cache
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\obj\Debug\STLHWEB.dll
+G:\开发\Visual Studio 2010\Projects\mySTLH\STLHWEB\obj\Debug\STLHWEB.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHWEB.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHWEB.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\AjaxControlToolkit.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\Microsoft.Office.Interop.Word.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHBLL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHCOMMON.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHDAL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHMODEL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHIDAL.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\office.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHBLL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHCOMMON.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHDAL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHMODEL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\AjaxControlToolkit.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\Microsoft.Office.Interop.Word.xml
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\STLHIDAL.pdb
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\office.xml
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\ar\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\cs\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\de\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\es\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\fr\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\he\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\hi\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\it\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\ja\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\ko\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\nl\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\pt\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\ru\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\obj\Debug\STLHWEB.csprojResolveAssemblyReference.cache
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\obj\Debug\STLHWEB.dll
+E:\task项目\(05.06)STLH\(5.6)STLH\STLHWEB\obj\Debug\STLHWEB.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHWEB.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHWEB.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\AjaxControlToolkit.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\Microsoft.Office.Interop.Word.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHBLL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHCOMMON.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHDAL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHMODEL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\office.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHBLL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHCOMMON.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHMODEL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\AjaxControlToolkit.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\Microsoft.Office.Interop.Word.xml
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\office.xml
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\ar\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\cs\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\de\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\es\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\fr\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\he\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\hi\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\it\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\ja\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\ko\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\nl\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\pt\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\ru\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\obj\Debug\STLHWEB.csprojResolveAssemblyReference.cache
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\obj\Debug\STLHWEB.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\obj\Debug\STLHWEB.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\FrameWork.dll
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\FrameWork.pdb
+D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\bin\FrameWork.xml
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHWEB.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHWEB.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\Ajax.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\AjaxControlToolkit.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\FrameWork.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\Microsoft.Office.Interop.Word.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHBLL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHCOMMON.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHDAL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHMODEL.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\office.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\FrameWork.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\FrameWork.xml
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHBLL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHCOMMON.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\STLHMODEL.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\Microsoft.Office.Interop.Word.xml
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\bin\office.xml
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\obj\Debug\STLHWEB.csprojResolveAssemblyReference.cache
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\obj\Debug\STLHWEB.dll
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\obj\Debug\STLHWEB.pdb
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\obj\Debug\STLHWEB.Properties.Resources.resources
+D:\Users\yaomingdan\Desktop\(5.19)STLH\(5.19)STLH\STLHWEB\obj\Debug\STLHWEB.csproj.GenerateResource.Cache
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHWEB.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHWEB.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\Ajax.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\AjaxControlToolkit.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\FrameWork.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\Microsoft.Office.Interop.Word.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHBLL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHCOMMON.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHDAL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHIDAL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHMODEL.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\office.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\FrameWork.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\FrameWork.xml
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHBLL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHCOMMON.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHIDAL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\STLHMODEL.pdb
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\Microsoft.Office.Interop.Word.xml
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\bin\office.xml
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\obj\Debug\STLHWEB.csprojResolveAssemblyReference.cache
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\obj\Debug\STLHWEB.Properties.Resources.resources
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\obj\Debug\STLHWEB.csproj.GenerateResource.Cache
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\obj\Debug\STLHWEB.dll
+D:\Users\yaomingdan\Desktop\(5.26)STLH\(5.26)STLH\STLHWEB\obj\Debug\STLHWEB.pdb

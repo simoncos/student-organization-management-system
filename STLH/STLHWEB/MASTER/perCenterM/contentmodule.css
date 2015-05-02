@@ -1,0 +1,153 @@
+﻿@charset "utf-8";
+/* ~~ 元素/标签选择器 ~~ */
+ul, ol, dl { /* 由于浏览器之间的差异，最佳做法是在列表中将填充和边距都设置为零。为了保持一致，您可以在此处指定需要的数值，也可以在列表所包含的列表项（LI、DT 和 DD）中指定需要的数值。请注意，除非编写一个更为具体的选择器，否则您在此处进行的设置将会层叠到 .nav 列表。 */
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* 删除上边距可以解决边距会超出其包含的 div 的问题。剩余的下边距可以使 div 与后面的任何元素保持一定距离。 */
+	padding-right: 15px;
+	padding-left: 15px; /* 向 div 内的元素侧边（而不是 div 自身）添加填充可避免使用任何方框模型数学。此外，也可将具有侧边填充的嵌套 div 用作替代方法。 */
+}
+img{
+    border:none;
+}
+a{
+	text-align: center;	
+}
+a img { /* 此选择器将删除某些浏览器中显示在图像周围的默认蓝色边框（当该图像包含在链接中时） */
+	border: none;
+	
+}
+/* ~~ 站点链接的样式必须保持此顺序，包括用于创建悬停效果的选择器组在内。 ~~ */
+a:link {
+	text-decoration: underline; /* 除非将链接设置成极为独特的外观样式，否则最好提供下划线，以便可从视觉上快速识别 */
+}
+a:visited {
+	color: #6E6C64;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* 此组选择器将为键盘导航者提供与鼠标使用者相同的悬停体验。 */
+	text-decoration: none;
+}
+
+
+/*************************************以上为公共部分**************************************************************/
+.contentmodule{
+   /* background: #eeeeee;
+	padding-bottom: 10px;
+	width: 770px;
+	margin:0 auto;
+	float: right;
+	min-height:440px;
+	margin-bottom:10px;*/
+   width: 432px;
+    float: left;
+    background-color: #fff;
+    height: 330px;
+    border: solid #c6c8ca 1px;
+    margin-right:10px;
+    margin-bottom:10px;
+
+}
+.moduletitle {
+    background-color: #180052;
+    height: 30px;
+    color: #fff;
+    line-height: 30px;
+}
+.moduletitle h3 {
+    float: left;
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+}
+.moduletitle span{
+    padding-right: 10px;
+    float: right;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+}
+.moduletitle label {
+    float: left;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+}
+.moduletitle span a {
+color: #fff;
+}
+.modulelist{
+    clear:both;
+}
+.modulelist ul {
+}
+.modulelist ul li {
+    padding-left:10px;
+    text-align:left;
+    list-style:none;
+    height: 28px;
+    line-height: 28px;
+    border-bottom: 1px dashed #313468;
+}
+.modulelist ul li span {
+    float:right;
+    padding-right: 10px;
+    font-size: 12px;
+    height: 28px;
+    line-height: 28px;
+    color:#231f20;
+}
+.modulelist ul li a{
+    text-align:left;
+    text-decoration: none;
+    color: #231f20;
+    font-size: 13px;
+    height: 28px;
+    line-height: 28px;
+    
+}
+.modulelist ul li a:hover{
+    text-align:left;
+    text-decoration: underline;
+    color: #231f20;
+    font-size: 13px;
+    height: 28px;
+    line-height: 28px;
+    
+}
+.modulelist ul li img{
+    border:none;
+}
+.sitemap{
+	width:878px;
+	height:30px;
+	border-bottom:2px  solid #180052;
+	margin-bottom:10px;
+}
+.sitemap span{
+    padding-left:5px;
+    margin-top:4px;
+	font-size:14px;
+	float:left;
+	color:#313468;
+	min-width:100px;
+	height:25px;
+	line-height:25px;
+	display:block;
+}
+.sitemap span a{	
+text-decoration:none;
+color:#000;
+}
+.sitemap span a:hover{	
+text-decoration:none;
+color:#aaa;
+}
+

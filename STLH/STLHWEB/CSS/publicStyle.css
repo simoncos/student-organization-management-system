@@ -1,0 +1,124 @@
+﻿/* CSS Document */
+body{font-family: "微软雅黑";font-size:75%;margin:0 auto;padding:0px;background:#fff;}
+a {color: #000000;text-decoration: none;}
+hr {color: #999; width:875px; text-align:left;}
+h2{font-size:1.4em; color:#4D84A7;height: 35px;padding: 0px; margin: 0 auto; }
+img { border-style: none;
+}
+
+*{margin:0;padding:0;}
+.title{ padding:9px 0px 0px 0px; margin: 0 auto; text-align:center;}
+.titlet{background:#0F2264;color:White; font-size:14px; height:35px;}/*标题格式*/
+.btn{ outline:none;}/*按钮样式，按钮图片*/
+.dynamic{color:#FF7A00;}
+.table-box {	
+WIDTH: 100%;
+BORDER-RIGHT: #800033 1px solid;	
+PADDING-RIGHT: 1px;	
+BORDER-TOP: #800033 1px solid;	
+PADDING-LEFT: 1px;	
+BACKGROUND: #ffffff;	
+MARGIN-BOTTOM: 10px;	
+PADDING-BOTTOM: 5px;	
+BORDER-LEFT: #800033 1px solid;	
+PADDING-TOP: 1px;	
+BORDER-BOTTOM: #800033 1px solid;
+}
+
+.table_title {
+FONT: bold 14px Tahoma, Verdana;	
+COLOR: #ffffff;	
+BACKGROUND-COLOR: #804D61;
+HEIGHT: 30px;
+PADDING-LEFT: 5px;
+PADDING-RIGHT:5px;
+
+}
+
+.table_title A {COLOR: #ffffff;}
+
+.table_body {	
+FONT-SIZE: 9pt;
+BACKGROUND-COLOR: #E3B5C7;
+height:30px;
+PADDING-LEFT: 5px;
+PADDING-RIGHT:5px;
+width:25%;
+font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; 
+}
+.table_none {	
+FONT-SIZE: 9pt;
+BACKGROUND-COLOR: #F8EDF1;
+height:30px;
+PADDING-LEFT: 5px;
+PADDING-RIGHT:5px;
+width:75%;
+font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; 
+}
+
+.table_body_NoWidth{  width:20%;}
+.table_none_NoWidth{  width:30%;}
+      
+      
+.table_body_List {	
+FONT-SIZE: 9pt;
+BACKGROUND-COLOR: #E3B5C7;
+height:30px;
+PADDING-LEFT: 5px;
+PADDING-RIGHT:5px;
+font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; 
+}
+.table_none_List {	
+FONT-SIZE: 9pt;
+BACKGROUND-COLOR: #F8EDF1;
+height:30px;
+PADDING-LEFT: 5px;
+PADDING-RIGHT:5px;
+font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; 
+}
+
+  
+.row 
+{
+    PADDING-LEFT: 5px;PADDING-RIGHT:5px; HEIGHT:28px; 
+    BACKGROUND-COLOR: #E3B5C7;
+    font-size:12px;
+}
+.row1
+{
+    PADDING-LEFT: 5px;PADDING-RIGHT:5px; HEIGHT:28px; 
+    BACKGROUND-COLOR: #F8EDF1;
+    font-size:12px;
+}
+input,select {
+    border: 1px solid #aaa;
+    color: #333;
+    border-radius: 3px;
+    padding-left: 5px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+input:hover, input:focus,select:hover,select:focus {
+    border: 2px solid #808080;
+}
+
+input[type=submit]:hover, input[type=button]:hover {
+    cursor: pointer;
+    border: 2px solid #aaa;
+    background-color: #5a5b5c;
+    /*opacity: 0.8;*/
+}
+
+input[type=submit], input[type=button] {
+    border-radius: 3px;
+    padding: 3px 25px;
+    background-color: #5a5b5c;
+    color: #f5f5f5;
+    margin-left: 4px;}
+    
+    input[type=radio], input[type=checkbox] {
+  border: 0px solid #aaa;  }
+
+td{height:30px;}

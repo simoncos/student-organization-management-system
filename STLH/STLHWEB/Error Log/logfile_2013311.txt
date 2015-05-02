@@ -1,0 +1,161 @@
+Error Date: 2013/3/11 11:28:58
+Error Page: http://localhost:6885/STJS/STCL/stclExamList.aspx
+Error Message: '0' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 11:28:58
+Error Page: http://localhost:6885/STJS/STCL/stclExamList.aspx
+Error Message: '0' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 11:34:06
+Error Page: http://localhost:6885/STJS/STCL/stclExamList.aspx
+Error Message: '0' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 11:34:09
+Error Page: http://localhost:6885/STJS/STCL/stclExamList.aspx
+Error Message: '0' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 18:37:54
+Error Page: http://localhost:6885/STJS/STCL/stclExam.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 19:52:48
+Error Page: http://localhost:6885/STJS/STCL/stclApply.aspx
+Error Message: positiveDate
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 19:57:05
+Error Page: http://localhost:6885/STJS/STCL/stclExam.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 20:33:43
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 20:36:55
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 20:40:00
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 20:43:32
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 20:45:41
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 20:53:33
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 20:56:01
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 21:11:36
+Error Page: http://localhost:6885/STJS/STCL/stclExam.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 21:20:40
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 21:29:09
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 21:57:03
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 21:57:03
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 22:01:24
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 22:01:24
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 22:02:24
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/11 22:02:24
+Error Page: http://localhost:6885/STJS/STCL/stclQuery.aspx
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 

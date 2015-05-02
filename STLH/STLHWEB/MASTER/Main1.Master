@@ -1,0 +1,135 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main1.master.cs" Inherits="STLHWEB.MASTER.Main1" %>
+<%@ Register src="../USERCTRL/perCenterSidebar.ascx" tagname="perCenterSidebar" tagprefix="uc2" %>
+
+<%@ Register src="../USERCTRL/perCenterNav.ascx" tagname="perCenterNav" tagprefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>个人中心</title>
+<link href="/CSS/publicStyle.css" type="text/css" rel="Stylesheet" />
+<link href="/MASTER/perCenterM/perCenterM.css" rel="stylesheet" type="text/css" />
+<link href="/MASTER/perCenterM/contentmodule.css" rel="stylesheet" type="text/css" />
+<link href="/MASTER/perCenterM/sidebarnav.css" rel="stylesheet" type="text/css" />
+<link href="/MASTER/perCenterM/headernav.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/MASTER/perCenterM/rightmodule.css" type="text/css"/>
+<link rel="stylesheet" href="/MASTER/perCenterM/changeskin.css" type="text/css"/>
+<link rel="stylesheet" href="/MASTER/perCenterM/bread.css" type="text/css"/>
+<script type="text/javascript" src="/JS/jquery-1.9.1.min.js"></script>
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+<div id="container" class="container">
+
+        
+
+
+<div id="header" class="header" >
+    <div id="headertitlePic" class="headertitlePic">
+    </div>
+    
+    
+    <div id="headercontent" class="headcontent">
+        <div id="headertop" class="headertop">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="changeskin" class="changeskin">
+            <div class="login" onmouseover="showlogindetail()" onmouseout="hidelogindetail()"  >
+            <%if (userName == "")
+              {%>
+                  <a href="/LOGIN/login.aspx">登录</a>
+              <%}
+              else
+              { %>
+              <a href="javascript:void(0)" >欢迎您<%=userName%></a>
+              <div id="logindetail" class="loginDetail" style="display: none">
+              <div><a href="/HOMEPAGE/publishNotice.aspx" >发布消息</a></div>
+              <div><a href="/LOGIN/loginOut.aspx" >退出</a></div>
+              </div>
+              <% }%>
+              
+            
+                
+            </div>
+            <div id="setting" class="setting" onclick="showskin()" >
+                <a href="javascript:void(0)"></a>
+				
+				<div style=" display:none;" id="skinpanel" class="skinpanel" >
+					<div id="skin1" style="background-color:#180052;"  class="skin">
+					<a href="javascript:changeskin('skin1')"></a>
+					</div>
+					<div id="skin2" style="background-color:#84b23d;" class="skin">
+						<a href="javascript:changeskin('skin2')"></a>
+					</div>
+					<div id="skin3" style="background-color:#dc4fad;" class="skin">
+						<a href="javascript:changeskin('skin3')"></a>
+					</div>
+					<div id="skin4" style="background-color:#180052;" class="skin">
+						<a href="javascript:changeskin('skin4')"></a>
+					</div>
+					<div id="skin5" style="background-color:#585858;" class="skin">
+						<a href="javascript:changeskin('skin5')"></a>
+					</div>
+				</div>
+            </div> 
+        </div>
+        <div class="navsidebar">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
+                    <uc1:perCenterNav ID="perCenterNav1" runat="server" />
+
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    
+</div>
+<div  id="center" class="center" >
+	<div id="sidebar" class="sidebar"  ><%--onmouseover="contentstatus()"--%>
+        <div id="sidebarnav" class="sidebarnav" >
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+            <uc2:perCenterSidebar ID="perCenterSidebar1" runat="server" />
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <div id="content" class="content"  ><%--onmouseover="contentstatusout()"--%>
+		<div id="sitemap" class="sitemap">
+		<span><a href="javascript:void(0)">项目一</a>><a href="javascript:void(0)">项目二</a>><a href="javascript:void(0)">项目三</a></span>
+		<%--<asp:SiteMapPath ID="SiteMapPath1" runat="server" 
+            Font-Names="Verdana" Font-Size="0.8em" PathSeparator=" : ">
+            <CurrentNodeStyle ForeColor="#333333" />
+            <NodeStyle Font-Bold="True" ForeColor="#284E98" />
+            <PathSeparatorStyle Font-Bold="True" ForeColor="#507CD1" />
+            <RootNodeStyle Font-Bold="True" ForeColor="#507CD1" />
+        </asp:SiteMapPath>--%></div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server">
+            </asp:ContentPlaceHolder>
+	</div>
+    <div id="rightmodule" class="rightmodule" >
+    </div>
+</div>
+<div id="footer" class="footer">
+    <table style=" color:#fff; width:100%;height:50px; border:0;" cellpadding="0" cellspacing="0">
+    <tr><td style=" text-align:center; vertical-align:middle;">&copy;&nbsp;2010-2014&nbsp;
+    <b>&nbsp;All&nbsp;Rights&nbsp;Reserved&nbsp;Powered&nbsp;by&nbsp;<a 
+            href="#"> Netleague实验室 </a></b>&nbsp;<br/>
+           电话:<b>1234566778</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>E-mail: nuaanetleague@163.com</b>
+        </td>
+    </tr>
+    </table>
+</div>
+</div>
+</form>
+</body>
+<script  type="text/javascript" src="/MASTER/perCenterM/perCenterM.js"></script>
+<script  type="text/javascript" src="/MASTER/perCenterM/changeskin.js"></script>
+<script  type="text/javascript" src="/MASTER/perCenterM/jqueryBread.js"></script>
+</html>
+

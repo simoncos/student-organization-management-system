@@ -1,0 +1,114 @@
+Error Date: 2013/3/24 9:51:40
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: 列名 'arrayDate' 无效。
+列名 'positiveDate' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 9:51:40
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: 列名 'arrayDate' 无效。
+列名 'positiveDate' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 9:54:59
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: stId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 10:39:54
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 11:28:56
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 11:29:37
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 11:30:08
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 11:31:36
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 11:32:58
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 11:33:42
+Error Page: http://localhost:48154/STJS/STZL/stzlQueryList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 11:34:44
+Error Page: http://localhost:48154/STJS/STZL/stzlQueryList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 11:34:46
+Error Page: http://localhost:48154/STJS/STZL/stzlQueryList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 11:37:33
+Error Page: http://localhost:48154/STJS/STZL/stzlUpdateList.aspx
+Error Message: Input string was not in a correct format.
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 21:52:56
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=1uGSmS5aCT1k6yWdEofBeTP6Zc4/f5xXnfVxmmzSyqSPoVaxyeeuziZeiXrD0H83t9n8qIYDfQPEa4hDVInHOw6ltUSYYhIi5j7SEa0QpU2I/P0X6mSVNE18G27QsQLVPw/oAXqWyvzj2gIK2TarMAyS+oIDAg7riPbIGqpRr4E=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 21:52:56
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=1uGSmS5aCT1k6yWdEofBeTP6Zc4/f5xXnfVxmmzSyqSPoVaxyeeuziZeiXrD0H83t9n8qIYDfQPEa4hDVInHOw6ltUSYYhIi5j7SEa0QpU2I/P0X6mSVNE18G27QsQLVPw/oAXqWyvzj2gIK2TarMAyS+oIDAg7riPbIGqpRr4E=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/24 21:52:56
+Error Page: http://localhost:48154/STJS/STCL/stclExam.aspx?ID=1uGSmS5aCT1k6yWdEofBeTP6Zc4/f5xXnfVxmmzSyqSPoVaxyeeuziZeiXrD0H83t9n8qIYDfQPEa4hDVInHOw6ltUSYYhIi5j7SEa0QpU2I/P0X6mSVNE18G27QsQLVPw/oAXqWyvzj2gIK2TarMAyS+oIDAg7riPbIGqpRr4E=
+Error Message: 为过程或函数 p_stclPass 指定了过多的参数。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 

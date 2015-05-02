@@ -1,0 +1,435 @@
+Error Date: 2013/3/9 13:34:59
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 变量名 '@reserTimeRange' 已声明。变量名在查询批次或存储过程内部必须唯一。
+'（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 13:34:59
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 变量名 '@reserTimeRange' 已声明。变量名在查询批次或存储过程内部必须唯一。
+'（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 13:39:27
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 13:39:27
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 13:42:32
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 13:42:32
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 13:43:54
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 13:43:54
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:11:16
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:11:36
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:13:06
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:16:54
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:20:27
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:20:32
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:22:46
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:22:49
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:23:31
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:23:31
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '（' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:26:27
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+Error TargetSite: Void ThrowArgumentOutOfRangeException()
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:36:29
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:39:28
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:39:28
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:39:28
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:41:55
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:41:55
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:41:55
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:46:52
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:46:52
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:46:52
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 14:48:14
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Save_Click(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 16:15:49
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '路霞' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 16:15:49
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '路霞' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 16:24:40
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 16:24:40
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 16:24:40
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:19:12
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:19:12
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:19:12
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:22:42
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:22:42
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:22:42
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:35:53
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:35:53
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:35:53
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: '(' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:39:48
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+Error TargetSite: Void ThrowArgumentOutOfRangeException()
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:43:02
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+Error TargetSite: Void ThrowArgumentOutOfRangeException()
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:45:18
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+Error TargetSite: Void ThrowArgumentOutOfRangeException()
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:46:18
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+Error TargetSite: Void ThrowArgumentOutOfRangeException()
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 17:47:22
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+Error TargetSite: Void ThrowArgumentOutOfRangeException()
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 18:11:12
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Save_Click(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 18:12:47
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Save_Click(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 18:17:54
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Save_Click(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 18:34:49
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Save_Click(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 18:40:13
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 值对于 Int32 太大或太小。
+Error TargetSite: Int32 ParseInt32(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 18:42:32
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActFillIn.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Save_Click(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 22:10:23
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=UChQb0hFeZCUXYD3F90O3pPT2391vBqzISW50IuiOfXRguJpe4VkxEQ3phYJaJaaPXlHjmeTBYas0RwnNtVbwzX9n/TqgNGm7gjxZdZ9rAoBIvHhx3eflEF7xuEiurYUSCfcwxi6oTDHXc6Sg3S8eS7/bq+KmudXT7s0GYTxmdQ=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 22:10:23
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=UChQb0hFeZCUXYD3F90O3pPT2391vBqzISW50IuiOfXRguJpe4VkxEQ3phYJaJaaPXlHjmeTBYas0RwnNtVbwzX9n/TqgNGm7gjxZdZ9rAoBIvHhx3eflEF7xuEiurYUSCfcwxi6oTDHXc6Sg3S8eS7/bq+KmudXT7s0GYTxmdQ=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 22:24:55
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=P3AWglroVqFSfi06VAYfOobkbfmvI8Iu01gpArFbAxncjioZhE0WkQXGQvxucr1Z2n8VOT5Vmls+QqNdVnBm4W2sWDh5j0fAwqUQPwvYNfsh8ptSFTLfShJ0OIQw+x+WroOgvDrXTWr0NVI5E+LFbiBB8bLOXL1KGLZeREHUkCk=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 22:24:55
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=P3AWglroVqFSfi06VAYfOobkbfmvI8Iu01gpArFbAxncjioZhE0WkQXGQvxucr1Z2n8VOT5Vmls+QqNdVnBm4W2sWDh5j0fAwqUQPwvYNfsh8ptSFTLfShJ0OIQw+x+WroOgvDrXTWr0NVI5E+LFbiBB8bLOXL1KGLZeREHUkCk=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 22:29:07
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=aytI8gJT4jq/RmmQjLghFPGVzKMkByjDVRh8qK5xgm0SdwTC566K0L8ktLJ466YF9i525KdKE//H6MXXzsYasKmArAJakgtmW3jnBmHJh4jpCnPUsiAG43v/oqDeqhF/AAsyraEiH5d7ufqNi48hEqk10lf6y1pWlvahX2DQbFI=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/9 22:29:07
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=aytI8gJT4jq/RmmQjLghFPGVzKMkByjDVRh8qK5xgm0SdwTC566K0L8ktLJ466YF9i525KdKE//H6MXXzsYasKmArAJakgtmW3jnBmHJh4jpCnPUsiAG43v/oqDeqhF/AAsyraEiH5d7ufqNi48hEqk10lf6y1pWlvahX2DQbFI=
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 

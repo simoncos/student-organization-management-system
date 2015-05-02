@@ -1,0 +1,686 @@
+Error Date: 2013/3/6 12:36:56
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 12:39:46
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 12:41:48
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 12:44:48
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 12:44:59
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=b5e762ea-840a-407f-aedf-e59a7b85b56c
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 12:45:58
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 12:51:46
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: sponsorId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 12:53:14
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: responsId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 12:54:05
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 12:56:12
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=7b404257-f87e-411e-aa83-cb1bb87bf10a
+Error Message: 该字符串未被识别为有效的 DateTime。
+Error TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 13:03:58
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 13:06:57
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: sponsorId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 13:07:19
+Error Page: http://localhost:6071/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: sponsorId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 13:41:15
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 13:43:34
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:09:12
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=苏宁易购
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:10:53
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: sponsorId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:20:11
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: sponsorId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:21:48
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:21:48
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:21:55
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:21:55
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:25:21
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:25:21
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:27:45
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:27:45
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:30:21
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:30:21
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 必须声明标量变量 "@slzzId"。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:36:13
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 列名 '新航道英语' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:36:13
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 列名 '新航道英语' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:39:59
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 列名 '新航道英语' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:40:00
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=新航道英语
+Error Message: 列名 '新航道英语' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:43:50
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=苏宁易购
+Error Message: 列名 '苏宁易购' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:43:50
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=苏宁易购
+Error Message: 列名 '苏宁易购' 无效。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:53:10
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:53:10
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:55:58
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 16:55:58
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:31:18
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?slzzId=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:31:18
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?slzzId=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:35:35
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?slzzId=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:35:35
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?slzzId=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:40:26
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?slzzId=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:40:26
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?slzzId=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:42:36
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?slzzId=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:42:36
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?slzzId=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:47:21
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:47:21
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=
+Error Message: '=' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:52:48
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:52:48
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:56:55
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:56:55
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:59:41
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 18:59:41
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 19:02:21
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 19:03:26
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: responsId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 19:04:27
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:06:59
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:14:50
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:14:50
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:15:48
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=b5e762ea-840a-407f-aedf-e59a7b85b56c
+Error Message: 'a' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:15:48
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=b5e762ea-840a-407f-aedf-e59a7b85b56c
+Error Message: 'a' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:17:29
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:17:29
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:19:59
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: '19325301' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:19:59
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: '19325301' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:22:53
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:22:53
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:23:49
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:23:49
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:24:37
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c80f4014a61061c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:24:37
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c80f4014a61061c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:25:44
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:27:19
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 已成功与服务器建立连接，但是在登录过程中发生错误。 (provider: Shared Memory Provider, error: 0 - 句柄无效。)
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:27:19
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 已成功与服务器建立连接，但是在登录过程中发生错误。 (provider: Shared Memory Provider, error: 0 - 句柄无效。)
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:27:53
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:29:53
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:29:54
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:35:14
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:35:14
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:37:21
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:37:21
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:43:47
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:43:47
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 'c50b2d1924' 附近有语法错误。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:46:56
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 20:56:50
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 21:14:28
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 21:17:16
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 21:24:11
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 21:52:34
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: fillId
+Error TargetSite: Int32 GetOrdinal(System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 22:01:15
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 22:02:40
+Error Page: http://localhost:1990/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 22:22:16
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 22:24:17
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 22:25:16
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 22:25:26
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 22:25:39
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 
+Error Date: 2013/3/6 22:33:37
+Error Page: http://localhost:6885/SLWL/ZZGL/zzglActExamine.aspx?ID=19325301-c80f-4014-a610-61c50b2d1924
+Error Message: 输入字符串的格式不正确。
+Error TargetSite: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+ 
+==============================================================================================
+ 

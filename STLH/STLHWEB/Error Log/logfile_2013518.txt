@@ -1,0 +1,14 @@
+Error Date: 2013/5/18 15:00:20
+Error Page: http://localhost:30769/STJS/STCL/stclquery/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/18 15:03:23
+Error Page: http://localhost:30769/STJS/STCL/stclquery/stclQuery.aspx
+Error Message: 未将对象引用设置到对象的实例。
+Error TargetSite: Void Page_Load(System.Object, System.EventArgs)
+ 
+==============================================================================================
+ 

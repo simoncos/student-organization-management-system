@@ -1,0 +1,126 @@
+Error Date: 2013/5/11 10:35:23
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 10:35:23
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 10:35:39
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 10:35:39
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 11:30:54
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 11:30:55
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 将字符串转换为 uniqueidentifier 时失败。
+Error TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 12:08:22
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 另一个 SqlParameterCollection 中已包含 SqlParameter。
+Error TargetSite: Void Validate(Int32, System.Object)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 12:08:22
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 另一个 SqlParameterCollection 中已包含 SqlParameter。
+Error TargetSite: Void Validate(Int32, System.Object)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 12:12:57
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 另一个 SqlParameterCollection 中已包含 SqlParameter。
+Error TargetSite: Void Validate(Int32, System.Object)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 12:12:57
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 另一个 SqlParameterCollection 中已包含 SqlParameter。
+Error TargetSite: Void Validate(Int32, System.Object)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 12:17:15
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 另一个 SqlParameterCollection 中已包含 SqlParameter。
+Error TargetSite: Void Validate(Int32, System.Object)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 12:17:15
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 另一个 SqlParameterCollection 中已包含 SqlParameter。
+Error TargetSite: Void Validate(Int32, System.Object)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 12:19:47
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 另一个 SqlParameterCollection 中已包含 SqlParameter。
+Error TargetSite: Void Validate(Int32, System.Object)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 12:19:47
+Error Page: http://localhost:48154/SLWL/DWJL/dwjlActFillIn.aspx
+Error Message: 另一个 SqlParameterCollection 中已包含 SqlParameter。
+Error TargetSite: Void Validate(Int32, System.Object)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 18:04:40
+Error Page: http://localhost:46632/LOGIN/login.aspx
+Error Message: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: SQL Network Interfaces, error: 26 - 定位指定的服务器/实例时出错)
+Error TargetSite: Boolean TryGetConnection(System.Data.Common.DbConnection, UInt32, Boolean, Boolean, System.Data.Common.DbConnectionOptions, System.Data.ProviderBase.DbConnectionInternal ByRef)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 18:04:41
+Error Page: http://localhost:46632/LOGIN/login.aspx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\Error Log\logfile_2013511.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 18:04:41
+Error Page: http://localhost:46632/LOGIN/login.aspx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\Error Log\logfile_2013511.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
+Error Date: 2013/5/11 18:04:48
+Error Page: http://localhost:46632/LOGIN/login.aspx
+Error Message: 文件“D:\Users\yaomingdan\Desktop\(5.6)STLH\STLHWEB\Error Log\logfile_2013511.txt”正由另一进程使用，因此该进程无法访问此文件。
+Error TargetSite: Void WinIOError(Int32, System.String)
+ 
+==============================================================================================
+ 
